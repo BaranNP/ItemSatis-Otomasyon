@@ -1,0 +1,9 @@
+Satıcı Doğrulama simgesi (seller-icon.svg, seller-icon.png, seller-icon.ico)
+
+Bu simge bu proje için özgün olarak hazırlanmıştır. Kamu malı olarak sunulur
+ve Creative Commons CC0 1.0 Universal ile yayımlanmıştır.
+
+CC0 1.0 metni: https://creativecommons.org/publicdomain/zero/1.0/
+
+İtemsatış'ın adı veya logosu simgede kullanılmamıştır. Proje uygulama adını
+uyumluluk amacıyla kullanır ve İtemsatış tarafından desteklenmez.

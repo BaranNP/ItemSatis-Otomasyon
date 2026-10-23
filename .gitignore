@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.venv/
+.env
+*.sqlite3
+license_private.pem
